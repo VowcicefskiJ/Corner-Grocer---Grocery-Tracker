@@ -50,8 +50,7 @@ The code is designed to be easy to update and expand. It's broken down into spec
 
 
 
-
-                                                                                  Grocery Frequency Tracker
+Grocery Frequency Tracker
 
 
 Overview:
