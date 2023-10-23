@@ -28,6 +28,12 @@ How did you make this program maintainable, readable, and adaptable?
 
 The program is divided into distinct functions, each responsible for a specific task, making it maintainable. Proper comments and consistent naming conventions enhance readability. The modular design ensures that new features can be added with minimal changes to existing code, making it adaptable.
 
+CONTRIBUTORS:
+
+Professor Charles Griffith
+SNHU
+
+
 
 
 
